@@ -1,4 +1,5 @@
-
+---
+---
 # WanderLift
 
 WanderLift is a ride-sharing application designed specifically for tourists. Our platform connects travelers with local drivers to provide convenient and affordable transportation to popular destinations and attractions. 
@@ -11,10 +12,11 @@ WanderLift aims to enhance the travel experience by offering rides to tourist de
 - **Ride Scheduling:** Option to book rides in advance for better planning.
 - **Payment Integration:** Secure and convenient payment options.
 
-# Design Screenshots
+## Design Screenshots
 ![Home Screen](https://github.com/n-h-e-z-r-o-n/UI-UX-design-hub/blob/main/UI-Images/WanderLift.png)
 
-
+---
+---
 
 
 
