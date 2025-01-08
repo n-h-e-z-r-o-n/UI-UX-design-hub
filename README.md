@@ -14,12 +14,12 @@ WanderLift aims to enhance the travel experience by offering rides to tourist de
 
 ### 
 ### View Links 
-- Design File virsion 1 [Link](https://www.figma.com/design/pcEWICO5dObpsuV0RHCU7e/WanderLift?node-id=0-1&t=qdPLj4IiBcVVx6iw-1)
-- Design File virsion 2 [Link](https://www.figma.com/design/pcEWICO5dObpsuV0RHCU7e/WanderLift?node-id=43-1143&t=tXu0oCCCuDcbkdLW-1)
-- 
-- Prototype demo virsion 1 [Link](https://www.figma.com/proto/pcEWICO5dObpsuV0RHCU7e/WanderLift?page-id=0%3A1&node-id=4-1137&node-type=frame&viewport=693%2C263%2C0.19&t=mz6b4UGIbJfo7mSD-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A7337&share=1)
+- User App Design File    [Link](https://www.figma.com/design/pcEWICO5dObpsuV0RHCU7e/WanderLift?node-id=0-1&t=qdPLj4IiBcVVx6iw-1)
+- Driver App Design File  [Link](https://www.figma.com/design/pcEWICO5dObpsuV0RHCU7e/WanderLift?node-id=43-1143&t=tXu0oCCCuDcbkdLW-1)
+- --------------------------------------------------
+- User App Prototype demo    [Link](https://www.figma.com/proto/pcEWICO5dObpsuV0RHCU7e/WanderLift?page-id=0%3A1&node-id=4-1137&node-type=frame&viewport=693%2C263%2C0.19&t=mz6b4UGIbJfo7mSD-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A7337&share=1)
 
-- Prototype demo virsion 2 [Link](https://www.figma.com/proto/pcEWICO5dObpsuV0RHCU7e/WanderLift?page-id=43%3A1143&node-id=43-13202&viewport=-239%2C-159%2C0.25&t=4G7voaFdurOkM6Od-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=43%3A13190)
+- Driver App Prototype demo  [Link](https://www.figma.com/proto/pcEWICO5dObpsuV0RHCU7e/WanderLift?page-id=43%3A1143&node-id=43-13202&viewport=-239%2C-159%2C0.25&t=4G7voaFdurOkM6Od-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=43%3A13190)
 
 
 ## Design Screenshots V1
@@ -27,11 +27,6 @@ WanderLift aims to enhance the travel experience by offering rides to tourist de
 
 ## Design Screenshots V2
 ![Version 2](https://github.com/n-h-e-z-r-o-n/UI-UX-design-hub/blob/main/UI-Images/image.png)
-
----
----
-
-
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
